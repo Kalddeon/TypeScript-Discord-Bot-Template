@@ -35,6 +35,7 @@ Pour obtenir une copie locale opérationnelle, suivez ces étapes d'exemple simp
   npm install ts-node@10.7.0 -g
   npm install typescript -g
   npm install yarn -g
+  npm install dotenv --save
   ```
 
 ### Installation

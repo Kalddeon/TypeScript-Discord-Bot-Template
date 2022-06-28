@@ -1,4 +1,3 @@
-require("dotenv").config();
 import { IConfig } from "./Interfaces/Config"
 
 // Config
@@ -18,7 +17,7 @@ class Config implements IConfig {
     public set dbPort(value: number | undefined) {
         this._dbPort = value;
     }
-    
+
     public get dbHost(): string | undefined {
         return this._dbHost;
     }

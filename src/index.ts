@@ -1,3 +1,4 @@
+require("dotenv").config();
 import { bot } from './Client/Client';
 // Décommentez si usage d'une BDD
 /*
