@@ -6,7 +6,7 @@
   "scripts": {
     "start": "ts-node src/index.ts"
   },
-  "repository": "https://github.com/SkyDroxy/TypeScript-Discord-Bot-Template.git",
+  "repository": "https://Kalddeon@github.com/Kalddeon/TypeScript-Discord-Bot-Template.git",
   "author": "RICHARD Clément",
   "license": "MIT",
   "dependencies": {
