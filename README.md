@@ -43,7 +43,7 @@ Pour obtenir une copie locale opérationnelle, suivez ces étapes d'exemple simp
 1. Créer un nouveau bot sur [Discord Developper Applications](https://discord.com/developers/applications)
 2. Cloner le repo
    ```sh
-   git clone https://github.com/SkyDroxy/TypeScript-Discord-Bot-Template.git
+   git clone https://github.com/Kalddeon/TypeScript-Discord-Bot-Template.git
    ```
 3. Modifier le package.json
    ```sh
